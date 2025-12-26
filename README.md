@@ -2,6 +2,9 @@
 
 1. [Goals vs. Preferred Reality Draft](#goals-vs-preferred-reality-draft)
 
+2. On Selecting A Career (in progress)
+
+3. Sources Of Income (in progress)
 
 ## Goals vs. Preferred Reality Draft
 
