@@ -1,12 +1,12 @@
 # Table of Contents
 
-1. [Goals vs. Preferred Reality Draft](#goals-vs-preferred-reality-draft)
+1. [Goals vs. Preferred Reality](#goals-vs-preferred-reality)
 
-2. On Selecting A Career (in progress)
+2. [On Selecting A Caree](#on-selecting-a-career)
 
 3. Sources Of Income (in progress)
 
-## Goals vs. Preferred Reality Draft
+## Goals vs. Preferred Reality
 
 As I've gotten older, I have strayed further away from the practice of setting goals. There is undoubtedly still immense value inherent in setting direction for your life. I don't want that truth to be lost in this essay. My reasoning behind reframing this encapsulation around life direction from "goals" into "preferred reality" is that there are flaws inherent in goal-setting. In goal-setting and goal-achieving, a typical sequence of events would go as follows: you set a goal $\rightarrow$ you work towards this goal with industry $\rightarrow$ goal is achieved or not achieved. Assuming a goal is achieved, the following happens. In the best case, this means you will allow yourself to enjoy a brief moment of satisfaction and maybe even fulfillment if you're lucky before the existentialism again sets in from a lack of direction (in which case you set more goals). In the worst case, achievement of the goal gives nothing but the realization that the goal you set in the past either lacked ambition or was the wrong goal to strive for (yikes). I want to suppose that reframing life direction around a "preferred reality" could be more productive than goal-setting where enjoyment, satisfaction, and fulfillment are rewarded in these fickle intervals. 
 
@@ -198,3 +198,160 @@ I have found that project-based or project-led learning has been the best way fo
 #### 1.10
 
 Ranging from tendencies like greed and aggression to behaviors like the overconsumption of sugary foods and laziness.
+
+
+## On Selecting A Career
+
+Before delving into career selection, it's worthwhile to define the modern meaning of "career". Careers in the 21st century are offering less and less stability:
+
+"Thus, it is clear from these median tenure results that workers will be faced with many decision points about their retirement benefits along their career paths, as workers will most likely not be with one company their entire career." - [EBRI](https://www.ebri.org/content/trends-in-employee-tenure--1983-2024)
+
+Inversely, the set of knowledge and/or skills required over the course of a career has increased.[[2.1]](#21) Many jobs today are done in tandem with computers. The paradigms and abstractions of the software[[2.2]](#22) through which these job functions are executed have been relatively dynamic, dependent on the triviality of the logic or data manipulation required (data engineer, game designer, etc.).[[2.3]](#23)
+
+A career can produce many things for a human life. It can become the source of nearly all one's social interaction. It can bestow abundances of financial resources. It can, and most likely will be the largest consumer of your time. A career can give meaning and fulfillment, or it can be a reminder of your insignficance. This is why selecting a career should be as nontrivial a decision as they come. Its importance lies within the same realm as selecting a spouse or a location to raise a family. 
+
+My career should have at least *the potential* to afford financial independence and abundance. It should allow a reasonable degree of autonomy. Its implications should be interesting and signficant. It's execution should be nontrivial. I do not desire to work in a vacuum. Their should be new experiences and people inherent in the kind of work it entails. With these preferences stated, I will consult OpenAI's GPT-5.2 LLM as these tools have proved excellent as natural language interfaces for collecting, parsing, and elegantly presenting the world's knowledge. 
+
+Relevant response portion:
+
+"
+1. AI/ML Engineer
+
+    - Financial Upside: Compensation is already strong; top performers reach seven figures in total comp at major labs or leading product companies.
+    - Significance: AI will define productivity, governance, and societal structure for the next several decades.
+    - Autonomy: Skilled engineers enjoy broad discretion in architecture, modeling, and systems design.
+    - Nontrivial Execution: Distributed systems, data pipelines, model optimization, and safety evaluations require deep technical competence.
+    - Social Exposure: Collaboration with cross-functional teams, researchers, and leadership is intrinsic
+
+2. AI Product Manager / Technical Product Strategist
+
+    - Financial Independence: Senior PMs at leading tech firms earn high-six to low-seven figure compensation.
+    - Intellectual Domain: PMs sit at the junction of engineering, design, economics, and psychology.
+    - Autonomy: They define vision, prioritize roadmaps, and influence organizational decisions.
+    - Nontrivial Execution: Requires market intuition, technical literacy, stakeholder orchestration, and customer empathy.
+    - Social Interaction: Daily cross-functional leadership.
+
+3. Quantitative Researcher or Algorithmic Trader 
+
+    - Financial Upside: Compensation is unmatched outside entrepreneurship.
+    - Significance: You operate at the center of markets, risk, and global liquidity.
+    - Autonomy: Many firms structure teams like independent research pods.
+    - Nontrivial Execution: Heavy mathematics, probability, optimization, and coding.
+    - Social Environment: Teams are small but intensely collaborative.
+
+4. Data Scientist / Data Platform Engineer 
+
+    - Financial: Strong demand across every sector (finance, health, logistics, manufacturing).
+    - Significance: Companies that convert data into decisions outperform competitors.
+    - Autonomy: Senior data scientists often act as internal consultants.
+    - Nontrivial Execution: Designing pipelines, modeling behavior, influencing business units.
+    - Social: High exposure to leaders, operators, and analysts.
+
+5. Founding Engineer or Technical Co-founder
+
+    - Financial Independence: Highest upside of any career path—ownership, rather than salary, drives wealth.
+    - Autonomy: Near total. You decide what to build, who to work with, how to operate.
+    - Significance: You create organizations, cultures, and technologies.
+    - Nontrivial Execution: Everything is difficult—engineering, product, sales, hiring, fundraising.
+    - Social Exposure: You meet investors, customers, partners, and talent.
+
+6. Cybersecurity Architect
+
+    - Financial: Top-tier compensation; increasingly strategic role.
+    - Significance: National security, corporate risk, and infrastructure protection.
+    - Autonomy: Senior roles operate like internal consultants with substantial independence
+    - Nontrivial Execution: Red-teaming, cryptography, threat modeling, and incident response are deeply technical.
+    - Social: Requires coordination with leadership, engineering, and external agencies.
+
+7. Biomedical Data Engineer / Computational Biology Researcher 
+
+    - Financial: Increasingly competitive compensation, particularly in biotech start-ups and pharma.
+    - Significance: Direct impact on human longevity, therapeutics, and public health.
+    - Autonomy: High; research-driven environments value independent experimentation.
+    - Nontrivial Execution: Genomics, proteomics, statistical modeling, and ML.
+    - Social: Laboratories are highly collaborative; interdisciplinary teams are standard.
+
+8. Management Consultant (Strategy, Tech Strategy, or Analytics-focused)
+
+    - Financial: High-six with rapid escalation; strong pathway to executive roles.
+    - Significance: You advise major companies on transformations, AI integration, restructuring, and market entry.
+    - Autonomy: As you progress, you manage entire workstreams and client relationships.
+    - Nontrivial Execution: Analytical rigor, structured problem solving, and executive communication.
+    - Social: Travel, clients, teams—constant interaction.
+"
+
+While this information is very valuable for our purposes, it can also be meaningless without context. The elements of a career or discipline that an individual finds interesting[[2.4]](#24) can differ greatly depending on their life experiences. From this given list, the only bullet points worth interest to me would be (in order): 
+ 
+- AI/ML Engineer
+- Biomedical Data Engineer 
+- Data Scientist
+- Technical Product Strategist
+- Management Consultant
+
+**Insights**
+
+It's apparent that there is some quality inherent to engineering disciplines that I find extremely interesting. I will try to define that here:
+
+Exploration and discovery of the universe's laws and application of that knowledge for solving human problems, or building tools which accomplish the former, is a near infinite problem space. Additionally, the idea of taking the ground truths of physics and architecting reliable and efficient abstractions to bring the elements of the universe into the domain of human control is a fascinating exercise. 
+
+Now that engineering has been selected as a discipline,[[2.5]](#25) it seems logical to detail what I find interesting about the top choices. Subcategories that underpin the above selections are:
+
+- data's applications (AI/ML)
+- human computer interaction (HCI)
+- data's wisdom (insights)
+
+With these subjects now outlined, I will again consult OpenAI's GPT-5.2 LLM for the retrieval of information about jobs encompassing these subcategories. 
+
+Relevant response portion (in order of interest): 
+
+-  Systems Architect for Large-Scale Intelligence Systems
+-  Embedded ML Engineer (Edge AI Systems)
+-  Knowledge Engineer / Applied Ontologist
+-  Cognitive Systems Engineer / Human–AI Interaction Engineer
+-  Computational Neuroscientist / NeuroAI Researcher
+-  Scientific Machine Learning Researcher
+-  Bioinformatics Engineer / Computational Genomics Engineer
+-  Research Engineer in Human Augmentation Technologies
+
+**Insights**
+
+From this, I see that the human element of interest is not so much for the biological structures of humans, but the realized and possible uses that machines and computers have for humans. Technology is a tool, it should be understood, perceived, and utilized as no more than such. Evidently, I've cultivated a techno-humanistic philosophy[[2.6]](#26) in regards to technology. I'd like my societal contributions to advance this sentiment. 
+
+**I think the current discipline I'm going down (AI/ML & data engineering and software architecture) is a wonderful entrypoint to a career. It fulfills the critical needs in any good career: it interests me, it has meaningful implications for greater society, an opportunity for financial independence, and a reasonable allowance for autonomy over my time, attention, and energy. Maintaining a philosophical and ethical element to my curiosities however is critical for keeping in view the larger picture of human-centered technology.**
+
+
+
+#### 2.1
+
+Particularly in the technology field, an increasingly ubiquitous discipline. 
+
+#### 2.2 
+
+Many careers which entail arithmetic or data manipulation have been greatly automated or abstracted away from direct interaction. 
+
+Analysts (Office 365)
+Designers (Figma)
+Scientists (Python, simulation software)
+Engineers (CAD)
+Web Developers (JS Frameworks)
+
+
+#### 2.3 
+
+Though I will not explore it here, it could be interesting to ponder about what relationship the paradigms of our jobs have with the information being generated on Earth. As the human population grows, more and more of the Earth's energy is converted into human brain matter (with more and more information made available). Besides, computers which are a byproduct of the ideas coming from brain matter, human brains have been the largest source of original ideas and information generation. Collectively, we are a growing computer trying to compute (uncover) the laws of the Universe and how to control them. 
+
+
+#### 2.4 
+
+We are spending a good deal of time on interests because interest is a precursor to curiosity. Curiosity is precursor to motivation. Higher motivation can be a good indicator for the other career considerations like financial earnings and autonomy. 
+
+
+#### 2.5 
+
+I actually don't think that engineering really narrows the range of problem spaces (jobs) that much. Engineering principles are omnipresent in nearly every job from construction work to chief financial officers. Engineering is essentially the discipline for solving nontrivial problems, and many successful "solving models" have been produced as a result. 
+
+#### 2.6 
+
+Google Query Response LLM:
+
+a philosophy seeing technology as a tool to enhance human potential, well-being, and evolution, merging humans with tech (like AI, biotech) to overcome biological limits for greater intelligence, longer life, and flourishing, often linked with transhumanism but emphasizing ethical frameworks and human values in this progress.
