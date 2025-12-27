@@ -2,9 +2,9 @@
 
 1. [Goals vs. Preferred Reality](#goals-vs-preferred-reality)
 
-2. [On Selecting A Caree](#on-selecting-a-career)
+2. [On Selecting A Career](#on-selecting-a-career)
 
-3. Sources Of Income (in progress)
+3. A Perfect ML System (in progress)
 
 ## Goals vs. Preferred Reality
 
