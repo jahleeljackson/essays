@@ -4,7 +4,7 @@
 
 2. [On Selecting A Career](#on-selecting-a-career)
 
-3. A Perfect ML System (in progress)
+3. [A Perfect ML System](#a-perfect-ml-system)
 
 ## Goals vs. Preferred Reality
 
@@ -355,3 +355,57 @@ I actually don't think that engineering really narrows the range of problem spac
 Google Query Response LLM:
 
 a philosophy seeing technology as a tool to enhance human potential, well-being, and evolution, merging humans with tech (like AI, biotech) to overcome biological limits for greater intelligence, longer life, and flourishing, often linked with transhumanism but emphasizing ethical frameworks and human values in this progress.
+
+
+## A Perfect ML System
+
+This essay is actually being done in service of a project I'm working. It has been my most challenging project to this point (I've hard to restart several times). The essense of the project is a CLI tool for the workflow orchestration of XGBoost projects. I've selected this as my next project for several reasons: 
+
+3. I've never created an application interfaced with through the command line, yet I always use CLI tools. 
+
+2. As an aspiring MLOps & AI/ML engineer I want to start getting experience with the process of deploying and monitoring models. 
+
+3. If done right, it could be a fun project that also has value. 
+
+4. I've never dealt with gradient-boosted models but I know they are frequently used in production. 
+
+Defining the "perfect" ML system could clarify design and development choices. My hope is that this project will be something I'd be proud to share with more experienced engineers.
+
+Before diving into the details however, it seems prudent to first state the obvious. I am not a professional engineer. I've been actively learning about data, software, and machine learning for a little over a year. My judgements will be limited by the narrow breadth of my knowledge and shallow depth of my experience. 
+
+The perfect machine learning system should uphold all of the core pillars of good software (and really engineering): reliability, maintainability, and scalability[[3.1]](#31) as defined by Martin Kleppman in *Designing Data-Intensive Applications*. Now I will define in best terms I can what the "perfect" ML system does under these constraints. 
+
+**Reliability**
+
+The perfect ML system should fundamentally *work*. This is actually a difficult feat for nontrivial problems in engineering. The system should accomplish its intended task with high consistency and at least reasonable performance&ndash; no more, no less. It uses each of its supplied resources (data, compute, energy, etc.) with utmost efficiency, greatly adding to performance, consistency, and simplicity. These aforementioned constraints should remain valid in a dynamic environment where unpredictable events happen. Just like how a car should still turn on reliably in the freezing cold and the sweltering heat.[[3.2]](#32) 
+
+**Maintainability**
+
+Solutions to hard problems can manifest in very different ways. Even for one person, their source code can look very different month to month or year to year. Good documentation and a consistent implementation[[3.3]](#33) can go a long way to make software more maintainable. It can be very time consuming to puzzle codebases into a working mental model from scratch. 
+
+The above section talked about the responsibility of engineers to make later development as easy as possible. There are multiple facets to maintainability however. Operation of the application should be seemless, intuitive, and observable. Telemetry is critical, especially in ML systems. Because of the nondeterministic and enigmatic nature of machine learning models, engineers should have the ability view the critical metrics a model is associated with. Automatic tooling for alerting the potential or immediate stresses in the system should be included. Most importantly, telemetry into whether a model is accomplishing its intended task without extra consequences. Engineers have implicitly agreed to trust a model's outputs by relinquishing decision making logic to invisible weights, biases, and statistical probabilities. It is essential that engineers validate this confidence by tracking metrics like data drift, model drift, model bias, and model performance within its context.[[3.4]](#34)
+
+
+**Scalability**
+
+For my specific project, scalability in users is not so much a concern as scalability in data. The perfect machine learning system will predictably be able to reliably store and elegantly handle large volumes of data. By elegant, I mean that the performance and operability are maintained with a reasonably large amount of data. 
+
+
+With these pillars defined, my ensuing project(s) should try to uphold these constraints as best as possible.
+
+#### 3.1 
+
+There are obviously other pillars worth acknowledging such as performance and security. For the simplicity and brevity of this essay, we'll assume these more specified concepts fall under the current umbrella (ie. performance falls under scalability and security under maintenance).
+
+
+#### 3.2 
+
+Reliability has actually become one of the most important qualities in all technology I purchase now. When a tool or technology solves a problem in an intuitive way reliably, it is a beautiful thing. It removes the friction in its use and almost becomes magical when you consider the fault tolerances embedded in its design. 
+
+#### 3.3 
+
+Consistent implementation in the sense that the paradigms (object-oriented, functional, etc.) and style (function naming, indentations, etc.) should follow an intuitive pattern through a project. 
+
+#### 3.4 
+
+The context of the algorithm and application of machine learning greatly influences which metric to optimize for. 
