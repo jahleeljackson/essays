@@ -359,9 +359,9 @@ a philosophy seeing technology as a tool to enhance human potential, well-being,
 
 ## A Perfect ML System
 
-This essay is actually being done in service of a project I'm working. It has been my most challenging project to this point (I've hard to restart several times). The essense of the project is a CLI tool for the workflow orchestration of XGBoost projects. I've selected this as my next project for several reasons: 
+This essay is actually being done in service of a project I'm working on. It has been my most challenging project to this point (I've hard to restart several times). The essense of the project is a CLI tool for the workflow orchestration of XGBoost projects. I've selected this as my next project for several reasons: 
 
-3. I've never created an application interfaced with through the command line, yet I always use CLI tools. 
+1. I've never created an application interfaced with through the command line, yet I always use CLI tools. 
 
 2. As an aspiring MLOps & AI/ML engineer I want to start getting experience with the process of deploying and monitoring models. 
 
