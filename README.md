@@ -6,6 +6,8 @@
 
 3. [A Perfect ML System](#a-perfect-ml-system)
 
+4. [Tolerating The Right Imperfections](#tolerating-the-right-imperfections)
+
 ## Goals vs. Preferred Reality
 
 As I've gotten older, I have strayed further away from the practice of setting goals. There is undoubtedly still immense value inherent in setting direction for your life. I don't want that truth to be lost in this essay. My reasoning behind reframing this encapsulation around life direction from "goals" into "preferred reality" is that there are flaws inherent in goal-setting. In goal-setting and goal-achieving, a typical sequence of events would go as follows: you set a goal $\rightarrow$ you work towards this goal with industry $\rightarrow$ goal is achieved or not achieved. Assuming a goal is achieved, the following happens. In the best case, this means you will allow yourself to enjoy a brief moment of satisfaction and maybe even fulfillment if you're lucky before the existentialism again sets in from a lack of direction (in which case you set more goals). In the worst case, achievement of the goal gives nothing but the realization that the goal you set in the past either lacked ambition or was the wrong goal to strive for (yikes). I want to suppose that reframing life direction around a "preferred reality" could be more productive than goal-setting where enjoyment, satisfaction, and fulfillment are rewarded in these fickle intervals. 
@@ -409,3 +411,36 @@ Consistent implementation in the sense that the paradigms (object-oriented, func
 #### 3.4 
 
 The context of the algorithm and application of machine learning greatly influences which metric to optimize for. 
+
+
+
+## Tolerating the Right Imperfections 
+
+*"You can do anything, but not everything." - David Allen*
+
+While reading *Hidden Potential* by Adam Grant, I came across the following lines while he talked about the role imperfection played in the career of a famous Japanese architect by the name of Tadao Ando: 
+
+"We usually associate aesthetic and technical prowess with a drive for
+flawless results. As I’ve studied the habits of great designers, dancers, and
+divers, though, I’ve come to understand that unlocking hidden potential is
+not about the pursuit of perfection. Tolerating flaws isn’t just something
+novices need to do—it’s part of becoming an expert and continuing to gain
+mastery. The more you grow, the better you know which flaws are
+acceptable." - Adam Grant 
+
+This passage struck a chord. It's one of the truths I've come to appreciate in the acquisition or improvement of skills and/or behaviors. 
+
+There are not many absolute generalizations that can be made about all people, let alone all organisms, on Earth. One that can be made is that we are all given 24 hours a day. Yet, outcomes vary greatly from person to person. This of course is due to an innumerable array of factors like socio-economic status, health, civil rights, and desires. The biggest influencer of outcomes however &ndash;in my naive opinion&ndash; is the management and prioritization of time and energy. People from all manner of circumstances have been able to accomplish their dreams given enough desire and luck, especially in the United States of America. Google "rags to riches stories" to see my supporting evidence. The way in which you elect to use your finite time, I will assert, is the largest indicator of the type of person you become and what you'll accomplish.
+
+Tolerating the right imperfections is a critical skill under the constraints of limited time. Chasing perfection is fundamentally a losing game. Unless you're solving trivial problems, there will be tradeoffs and decisions made with limited information. The ability to prioritize, or to tolerate the right imperfections, is key to becoming a great problem-solver. Not every software operation can be in [constant time](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/). Not every element of a business can be perfectly efficient (especially with the added contraints of money and talent). Optimize for what's most important, and accept good enough for the rest. 
+
+$$
+\text{growth} > \text{perfection}
+$$
+
+
+Bill Gates was not the only person born October 28, 1955 in Seattle, Washington. What placed him at the head of a $3.64 trillion organization as of December 2025? Luck? There is a [philosophical argument](https://orionphilosophy.com/free-will-vs-determinism/) for that, but a much more productive perspective is looking at how he has spent his time. Gates initially **chose** to spend countless hours experimenting with and learning about computer software. He subsequently spent countless hours building what's proved to be an enduring business that transformed the world of personal computers and commercial software. The likelihood of Microsoft happening would have been greatly reduced had chose to also divide his time with chasing Wimbledon (he liked tennis growing up). 
+
+The lesson to be extrapolated from this anecdote is that there will be shortcomings, inadequacies, flaws...imperfections that have to be tolerated. The key is to select which components of the solution space you allow to be imperfect with respect to your desired outcomes and constraints. 
+
+Do not let the unnecessary, unreasonable, and impossible standard of perfection get in the way of accomplishing your preferred reality. 
