@@ -80,7 +80,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
 6. Introspective analysis and evaluation against nobler ideals. 
 
-    At this moment in my life, I do not subscribe to any of the existing religious dogma or texts (Bible, Quran, Torah, etc.). As a result it can be difficult to ignore and/or submit the lower, animalistic impulses and behaviors present in my biology.[[1.10]](#110) In my experience, surrender to these lower impulses has degraded over happiness, satisfaction, and fulfillment. Unfortunately for homo sapiens, many of these lower impulses produce a drive towards practices of instant gratification&ndash; which almost always incurs negative consequences. In order to circumvent this paradox of human nature where there are proverbial weights constantly dragging us down as we march upwards to higher concepts like fulfillment and enjoyment, I have placed periodic internal inspection, and self-evaluation against ideals like discipline, wisdom, and accountability as parameters in my preferred reality. 
+    At this moment in my life, I do not subscribe to any of the existing religious dogma or texts (Bible, Quran, Torah, etc.). As a result it can be difficult to ignore and/or submit the lower, animalistic impulses and behaviors present in my biology.[[1.10]](#110) In my experience, surrender to these lower impulses has degraded my overall happiness, satisfaction, and fulfillment. Unfortunately for homo sapiens, many of these lower impulses produce a drive towards practices of instant gratification&ndash; which almost always incur a less obvious negative consequence. In order to circumvent this paradox of human nature where there are proverbial weights constantly dragging us down as we march upwards to higher concepts like fulfillment and enjoyment, I have placed periodic internal inspection, and self-evaluation against ideals like discipline, wisdom, and accountability as parameters in my preferred reality. 
 
     sine qua nons: 
 
@@ -90,7 +90,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
 7. Service and charity to the less fortunate.
 
-    As a blessed individual, it is my responsibility to never neglect the less fortunate division of society. No person should be so naive or ignorant as to believe every gift in their life was given only through their self-fueled toils. To rectify this unfair truth, you should extend your time, energy, and resources when possible. 
+    As a blessed individual, it is my responsibility to never neglect the less fortunate division of society. No person should be so naive or ignorant as to believe every gift in their life was given only through their own self-fueled toils. To rectify the unfairness in this truth, you should extend your time, energy, and resources when possible. 
 
     sine qua nons:
 
@@ -208,7 +208,7 @@ Before delving into career selection, it's worthwhile to define the modern meani
 
 "Thus, it is clear from these median tenure results that workers will be faced with many decision points about their retirement benefits along their career paths, as workers will most likely not be with one company their entire career." - [EBRI](https://www.ebri.org/content/trends-in-employee-tenure--1983-2024)
 
-Inversely, the set of knowledge and/or skills required over the course of a career has increased.[[2.1]](#21) Many jobs today are done in tandem with computers. The paradigms and abstractions of the software[[2.2]](#22) through which these job functions are executed have been relatively dynamic, dependent on the triviality of the logic or data manipulation required (data engineer, game designer, etc.).[[2.3]](#23)
+Inversely, the variability in knowledge and/or skills required over the course of a career has increased (particularly in technology).[[2.1]](#21) Many jobs today are done in tandem with computers. The paradigms and abstractions of the software[[2.2]](#22) through which these job functions are executed have been relatively dynamic.[[2.3]](#23)
 
 A career can produce many things for a human life. It can become the source of nearly all one's social interaction. It can bestow abundances of financial resources. It can, and most likely will be the largest consumer of your time. A career can give meaning and fulfillment, or it can be a reminder of your insignificance. This is why selecting a career should be as nontrivial a decision as they come. Its importance lies within the same realm as selecting a spouse or a location to raise a family. 
 
@@ -340,7 +340,7 @@ Web Developers (JS Frameworks)
 
 #### 2.3 
 
-Though I will not explore it here, it could be interesting to ponder about what relationship the paradigms of our jobs have with the information being generated on Earth. As the human population grows, more and more of the Earth's energy is converted into human brain matter (with more and more information made available). Besides, computers which are a byproduct of the ideas coming from brain matter, human brains have been the largest source of original ideas and information generation. Collectively, we are a growing computer trying to compute (uncover) the laws of the Universe and how to control them. 
+Though I will not explore it here, it could be interesting to ponder about what relationship the paradigms of our jobs have with the information being generated on Earth. As the human population grows, more and more of the Earth's energy is converted into human thought (with more and more accessible information to feed this thought). Beside computers which are a byproduct of the ideas coming from human thought, human brains have been the largest source of original ideas. Collectively, we are a computer made up of a colony of processing units trying to compute (uncover) the laws of the Universe and how to control them. 
 
 
 #### 2.4 
