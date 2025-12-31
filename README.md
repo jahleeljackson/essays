@@ -12,7 +12,7 @@
 
 As I've gotten older, I have strayed further away from the practice of setting goals. There is undoubtedly still immense value inherent in setting direction for your life. I don't want that truth to be lost in this essay. My reasoning behind reframing this encapsulation around life direction from "goals" into "preferred reality" is that there are flaws inherent in goal-setting. In goal-setting and goal-achieving, a typical sequence of events would go as follows: you set a goal $\rightarrow$ you work towards this goal with industry $\rightarrow$ goal is achieved or not achieved. Assuming a goal is achieved, the following happens. In the best case, this means you will allow yourself to enjoy a brief moment of satisfaction and maybe even fulfillment if you're lucky before the existentialism again sets in from a lack of direction (in which case you set more goals). In the worst case, achievement of the goal gives nothing but the realization that the goal you set in the past either lacked ambition or was the wrong goal to strive for (yikes). I want to suppose that reframing life direction around a "preferred reality" could be more productive than goal-setting where enjoyment, satisfaction, and fulfillment are rewarded in these fickle intervals. 
 
-A preferred reality is a constant pursuit towards (or maintenance of) a defined set of "parameters" by which you *prefer* to experience consciousness. In simpler terms, a specific way you desire to live life. I believe this provides more value to an individual seeking direction, purpose, and fulfillment because you're not delaying self-satisfaction until some point in the future&ndash; where there are unforeseen new circumstances and information.[[1.1]](#11) Defining a preferred reality gives you a frame of which to guide your life by. The beauty of preferred realities is that, unlike goals, you can change parameters guiltlessly as you gain new information. There is also no shame in feeling content in the present moment&ndash; even if you haven't yet achieved a goal. As long as you're living in accordance with you're preferred reality, there should be no substantial feelings of lack or inadequacy.[[1.2]](#12) The parameters you define in your preferred reality are completely up to you. They can range from abstract virtues to concrete daily rituals you engage in. Clearly, the more parameters you define, the more direction you give yourself moment to moment.[[1.3]](#13) One drawback (or feature) of this framework is that this system is inherently more demanding. As the variables in your life change, and they inevitably will, you will need to edit the persistent store where you documented these parameters (journal, digital document, etc.). This is constitutionally different from goal-setting where you're making a commitment to a direction set in the past.
+A preferred reality is a constant pursuit towards (or maintenance of) a defined set of "parameters" by which you *prefer* to experience consciousness. In simpler terms, a specific way you desire to live life. I believe this provides more value to an individual seeking direction, purpose, and fulfillment because you're not delaying self-satisfaction until some point in the future&ndash; where there are unforeseen new circumstances and information.[[1.1]](#11) Defining a preferred reality gives you a frame of which to guide your life by. The beauty of preferred realities is that, unlike goals, you can change parameters guiltlessly as you gain new information. There is also no shame in feeling content in the present moment&ndash; even if you haven't yet achieved a goal. As long as you're living in accordance with your preferred reality, there should be no substantial feelings of lack or inadequacy.[[1.2]](#12) The parameters you define in your preferred reality are completely up to you. They can range from abstract virtues to concrete daily rituals you engage in. Clearly, the more parameters you define, the more direction you give yourself moment to moment.[[1.3]](#13) One drawback (or feature) of this framework is that this system is inherently more demanding. As the variables in your life change, and they inevitably will, you will need to edit the persistent store where you documented these parameters (journal, digital document, etc.). This is constitutionally different from goal-setting where you're making a commitment to a direction set in the past.
 
 **My preferred reality**
 
@@ -26,7 +26,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
     - Reasonable upkeep of hygiene and physical appearance.
 
-    - Limiting of digital or predatory media as there are immoral qualities inherent in its function and purpose. 
+    - Limiting digital or predatory media as there are immoral qualities inherent in its function and purpose. 
 
     - Exercising self-compassion. 
 
@@ -38,7 +38,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
     - There should be a nontrivial amount of uncertainty when setting sights on an ambitious goal.
 
-    - The behavior, environment, and mental framing should be designed in accordance with pursuit of these goals. 
+    - The behavior, environment, and mental framing should be designed in accordance with the pursuit of these goals. 
 
     - Minimization of distractions which deter from achieving ambitious goals should be practiced. 
 
@@ -69,7 +69,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
 5. Accrual and improvement of skills.
 
-    Accrual and improvement of skills can be redefined into what they actually are: a transformation of one's abilities. I believe that a sincere confidence[[1.8]](#18) in one's abilities and an extensive reservoir of skills does well to increase the domain of one's autonomy. This parameter can also be thought of as an offspring of "the pursuit of ambitious goals" & "voracious consumption of novel or interesting information". Traits inhereted from the former are the stretching of one's current faculties to encompass greater abilities. Traits inhereted from the latter manifest as refusal to accept a reality where your current self is the upper limit of all you can do, know, or understand.  
+    Accrual and improvement of skills can be redefined into what they actually are: a transformation of one's abilities. I believe that a sincere confidence[[1.8]](#18) in one's abilities and an extensive reservoir of skills does well to increase the domain of one's autonomy. This parameter can also be thought of as an offspring of "the pursuit of ambitious goals" & "voracious consumption of novel or interesting information". Traits inherited from the former are the stretching of one's current faculties to encompass greater abilities. Traits inherited from the latter manifest as refusal to accept a reality where your current self is the upper limit of all you can do, know, or understand.  
 
     sine qua nons:
 
@@ -90,7 +90,7 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
 7. Service and charity to the less fortunate.
 
-    As a blessed individual, it is my responsibility to never neglect the less fortunate division of society. No person should so naive or ignorant as to believe every gift in their life was given only through their self-fueled toils. To rectify this unfair truth, you should extend your time, energy, and resources when possible. 
+    As a blessed individual, it is my responsibility to never neglect the less fortunate division of society. No person should be so naive or ignorant as to believe every gift in their life was given only through their self-fueled toils. To rectify this unfair truth, you should extend your time, energy, and resources when possible. 
 
     sine qua nons:
 
@@ -120,13 +120,13 @@ A preferred reality is a constant pursuit towards (or maintenance of) a defined 
 
 - Reasonable upkeep of hygiene and physical appearance.
 
-- Limiting of digital or predatory media as there are immoral qualities inherent in its function and purpose. 
+- Limiting digital or predatory media as there are immoral qualities inherent in its function and purpose. 
 
 - Exercising self-compassion. 
 
 - There should be a nontrivial amount of uncertainty when setting sights on an ambitious goal.
 
-- The behavior, environment, and mental framing should be designed in accordance with pursuit of these goals. 
+- The behavior, environment, and mental framing should be designed in accordance with the pursuit of these goals. 
 
 - Minimization of distractions which deter from achieving ambitious goals should be practiced. 
 
@@ -159,7 +159,7 @@ This point I forgot to mention regarding the deficiencies of goal-setting. Setti
 
 #### 1.2 
 
-If you are, then you are definitionally not living within you're preferred reality (unless a masochistic tendency is part of your preferred reality).
+If you are, then you are definitionally not living within your preferred reality (unless a masochistic tendency is part of your preferred reality).
 
 
 #### 1.3 
@@ -184,7 +184,7 @@ Positive-sum profit in the sense that there are no downsides or drawbacks incurr
 
 #### 1.7 
 
-Literature, oration, discussion, and the visual medium produced by credible and enduring entities (invidiuals or organizations).
+Literature, oration, discussion, and the visual medium produced by credible and enduring entities (individuals or organizations).
 
 
 #### 1.8
@@ -210,9 +210,9 @@ Before delving into career selection, it's worthwhile to define the modern meani
 
 Inversely, the set of knowledge and/or skills required over the course of a career has increased.[[2.1]](#21) Many jobs today are done in tandem with computers. The paradigms and abstractions of the software[[2.2]](#22) through which these job functions are executed have been relatively dynamic, dependent on the triviality of the logic or data manipulation required (data engineer, game designer, etc.).[[2.3]](#23)
 
-A career can produce many things for a human life. It can become the source of nearly all one's social interaction. It can bestow abundances of financial resources. It can, and most likely will be the largest consumer of your time. A career can give meaning and fulfillment, or it can be a reminder of your insignficance. This is why selecting a career should be as nontrivial a decision as they come. Its importance lies within the same realm as selecting a spouse or a location to raise a family. 
+A career can produce many things for a human life. It can become the source of nearly all one's social interaction. It can bestow abundances of financial resources. It can, and most likely will be the largest consumer of your time. A career can give meaning and fulfillment, or it can be a reminder of your insignificance. This is why selecting a career should be as nontrivial a decision as they come. Its importance lies within the same realm as selecting a spouse or a location to raise a family. 
 
-My career should have at least *the potential* to afford financial independence and abundance. It should allow a reasonable degree of autonomy. Its implications should be interesting and signficant. It's execution should be nontrivial. I do not desire to work in a vacuum. Their should be new experiences and people inherent in the kind of work it entails. With these preferences stated, I will consult OpenAI's GPT-5.2 LLM as these tools have proved excellent as natural language interfaces for collecting, parsing, and elegantly presenting the world's knowledge. 
+My career should have at least *the potential* to afford financial independence and abundance. It should allow a reasonable degree of autonomy. Its implications should be interesting and significant. Its execution should be nontrivial. I do not desire to work in a vacuum. There should be new experiences and people inherent in the kind of work it entails. With these preferences stated, I will consult OpenAI's GPT-5.2 LLM as these tools have proved excellent as natural language interfaces for collecting, parsing, and elegantly presenting the world's knowledge. 
 
 Relevant response portion:
 
@@ -345,7 +345,7 @@ Though I will not explore it here, it could be interesting to ponder about what 
 
 #### 2.4 
 
-We are spending a good deal of time on interests because interest is a precursor to curiosity. Curiosity is precursor to motivation. Higher motivation can be a good indicator for the other career considerations like financial earnings and autonomy. 
+We are spending a good deal of time on interests because interest is a precursor to curiosity. Curiosity is the precursor to motivation. Higher motivation can be a good indicator for other career considerations like financial earnings and autonomy. 
 
 
 #### 2.5 
@@ -361,7 +361,7 @@ a philosophy seeing technology as a tool to enhance human potential, well-being,
 
 ## A Perfect ML System
 
-This essay is actually being done in service of a project I'm working on. It has been my most challenging project to this point (I've hard to restart several times). The essense of the project is a CLI tool for the workflow orchestration of XGBoost projects. I've selected this as my next project for several reasons: 
+This essay is actually being done in service of a project I'm working on. It has been my most challenging project to this point (I've had to restart several times). The essence of the project is a CLI tool for the workflow orchestration of XGBoost projects. I've selected this as my next project for several reasons: 
 
 1. I've never created an application interfaced with through the command line, yet I always use CLI tools. 
 
@@ -375,7 +375,7 @@ Defining the "perfect" ML system could clarify design and development choices. M
 
 Before diving into the details however, it seems prudent to first state the obvious. I am not a professional engineer. I've been actively learning about data, software, and machine learning for a little over a year. My judgements will be limited by the narrow breadth of my knowledge and shallow depth of my experience. 
 
-The perfect machine learning system should uphold all of the core pillars of good software (and really engineering): reliability, maintainability, and scalability[[3.1]](#31) as defined by Martin Kleppman in *Designing Data-Intensive Applications*. Now I will define in best terms I can what the "perfect" ML system does under these constraints. 
+The perfect machine learning system should uphold all of the core pillars of good software (and really engineering): reliability, maintainability, and scalability[[3.1]](#31) as defined by Martin Kleppman in *Designing Data-Intensive Applications*. Now I will define in the best terms I can what the "perfect" ML system does under these constraints. 
 
 **Reliability**
 
@@ -385,7 +385,7 @@ The perfect ML system should fundamentally *work*. This is actually a difficult 
 
 Solutions to hard problems can manifest in very different ways. Even for one person, their source code can look very different month to month or year to year. Good documentation and a consistent implementation[[3.3]](#33) can go a long way to make software more maintainable. It can be very time consuming to puzzle codebases into a working mental model from scratch. 
 
-The above section talked about the responsibility of engineers to make later development as easy as possible. There are multiple facets to maintainability however. Operation of the application should be seemless, intuitive, and observable. Telemetry is critical, especially in ML systems. Because of the nondeterministic and enigmatic nature of machine learning models, engineers should have the ability view the critical metrics a model is associated with. Automatic tooling for alerting the potential or immediate stresses in the system should be included. Most importantly, telemetry into whether a model is accomplishing its intended task without extra consequences. Engineers have implicitly agreed to trust a model's outputs by relinquishing decision making logic to invisible weights, biases, and statistical probabilities. It is essential that engineers validate this confidence by tracking metrics like data drift, model drift, model bias, and model performance within its context.[[3.4]](#34)
+The above section talked about the responsibility of engineers to make later development as easy as possible. There are multiple facets to maintainability however. Operation of the application should be seamless, intuitive, and observable. Telemetry is critical, especially in ML systems. Because of the nondeterministic and enigmatic nature of machine learning models, engineers should have the ability to view the critical metrics a model is associated with. Automatic tooling for alerting the potential or immediate stresses in the system should be included. Most importantly, telemetry into whether a model is accomplishing its intended task without extra consequences. Engineers have implicitly agreed to trust a model's outputs by relinquishing decision making logic to invisible weights, biases, and statistical probabilities. It is essential that engineers validate this confidence by tracking metrics like data drift, model drift, model bias, and model performance within its context.[[3.4]](#34)
 
 
 **Scalability**
@@ -432,7 +432,7 @@ This passage struck a chord. It's one of the truths I've come to appreciate in t
 
 There are not many absolute generalizations that can be made about all people, let alone all organisms, on Earth. One that can be made is that we are all given 24 hours a day. Yet, outcomes vary greatly from person to person. This of course is due to an innumerable array of factors like socio-economic status, health, civil rights, and desires. The biggest influencer of outcomes however &ndash;in my naive opinion&ndash; is the management and prioritization of time and energy. People from all manner of circumstances have been able to accomplish their dreams given enough desire and luck, especially in the United States of America. Google "rags to riches stories" to see my supporting evidence. The way in which you elect to use your finite time, I will assert, is the largest indicator of the type of person you become and what you'll accomplish.
 
-Tolerating the right imperfections is a critical skill under the constraints of limited time. Chasing perfection is fundamentally a losing game. Unless you're solving trivial problems, there will be tradeoffs and decisions made with limited information. The ability to prioritize, or to tolerate the right imperfections, is key to becoming a great problem-solver. Not every software operation can be in [constant time](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/). Not every element of a business can be perfectly efficient (especially with the added contraints of money and talent). Optimize for what's most important, and accept good enough for the rest. 
+Tolerating the right imperfections is a critical skill under the constraints of limited time. Chasing perfection is fundamentally a losing game. Unless you're solving trivial problems, there will be tradeoffs and decisions made with limited information. The ability to prioritize, or to tolerate the right imperfections, is key to becoming a great problem-solver. Not every software operation can be in [constant time](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/). Not every element of a business can be perfectly efficient (especially with the added constraints of money and talent). Optimize for what's most important, and accept good enough for the rest. 
 
 $$
 \text{growth} > \text{perfection}
@@ -444,3 +444,4 @@ Bill Gates was not the only person born October 28, 1955 in Seattle, Washington.
 The lesson to be extrapolated from this anecdote is that there will be shortcomings, inadequacies, flaws...imperfections that have to be tolerated. The key is to select which components of the solution space you allow to be imperfect with respect to your desired outcomes and constraints. 
 
 Do not let the unnecessary, unreasonable, and impossible standard of perfection get in the way of accomplishing your preferred reality. 
+
