@@ -494,7 +494,7 @@ Thinking about my current understanding prior to research will highlight gaps. T
 
 The system which manages the allocating and deallocating of computer memory seems like a pretty important concept to understand as someone aspiring to program computers. The biggest adjustment from Python (1st language) to Rust & Golang has been understanding how information is stored and manipulated for compiled languages. Up to this point, I've become familiar with the higher level data structures & algorithms (maps, linked lists, and trees). This new knowledge will hopefully continue to reinforce my current mental model of programming. 
 
-**Current Understanding**
+**Assumptions**
 
 I understand the stack as the structure which manages defined aspects of a program. Initialized primitives, functions, and their respective scopes are pushed and popped from the stack element. I'm not certain whether values or address are stored on the stack. The stack operates on the LIFO (last in first out) principle to handle the sequential nature of programming. 
 
