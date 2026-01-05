@@ -8,6 +8,12 @@
 
 4. [Tolerating The Right Imperfections](#tolerating-the-right-imperfections)
 
+5. [Grasp Of A Craft](#the-grasp-of-a-craft)
+
+    5.1 [Stack vs. Heap](#stack-vs-heap-142026)
+    5.2[Interpreted vs. Compiled vs. JIT](#interpreted-vs-compiled-vs-jit)
+
+
 ## Goals vs. Preferred Reality
 
 As I've gotten older, I have strayed further away from the practice of setting goals. There is undoubtedly still immense value inherent in setting direction for your life. I don't want that truth to be lost in this essay. My reasoning behind reframing this encapsulation around life direction from "goals" into "preferred reality" is that there are flaws inherent in goal-setting. In goal-setting and goal-achieving, a typical sequence of events would go as follows: you set a goal $\rightarrow$ you work towards this goal with industry $\rightarrow$ goal is achieved or not achieved. Assuming a goal is achieved, the following happens. In the best case, this means you will allow yourself to enjoy a brief moment of satisfaction and maybe even fulfillment if you're lucky before the existentialism again sets in from a lack of direction (in which case you set more goals). In the worst case, achievement of the goal gives nothing but the realization that the goal you set in the past either lacked ambition or was the wrong goal to strive for (yikes). I want to suppose that reframing life direction around a "preferred reality" could be more productive than goal-setting where enjoyment, satisfaction, and fulfillment are rewarded in these fickle intervals. 
@@ -434,14 +440,83 @@ There are not many absolute generalizations that can be made about all people, l
 
 Tolerating the right imperfections is a critical skill under the constraints of limited time. Chasing perfection is fundamentally a losing game. Unless you're solving trivial problems, there will be tradeoffs and decisions made with limited information. The ability to prioritize, or to tolerate the right imperfections, is key to becoming a great problem-solver. Not every software operation can be in [constant time](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/). Not every element of a business can be perfectly efficient (especially with the added constraints of money and talent). Optimize for what's most important, and accept good enough for the rest. 
 
-$$
-\text{growth} > \text{perfection}
-$$
+growth > perfection
 
 
-Bill Gates was not the only person born October 28, 1955 in Seattle, Washington. What placed him at the head of a $3.64 trillion organization as of December 2025? Luck? There is a [philosophical argument](https://orionphilosophy.com/free-will-vs-determinism/) for that, but a much more productive perspective is looking at how he has spent his time. Gates initially **chose** to spend countless hours experimenting with and learning about computer software. He subsequently spent countless hours building what's proved to be an enduring business that transformed the world of personal computers and commercial software. The likelihood of Microsoft happening would have been greatly reduced had chose to also divide his time with chasing Wimbledon (he liked tennis growing up). 
+Bill Gates was not the only person born October 28, 1955 in Seattle, Washington. What placed him at the head of a $3.64 trillion organization as of December 2025? Luck? There is a [philosophical argument](https://orionphilosophy.com/free-will-vs-determinism/) for that, but a much more productive perspective is looking at how he has spent his time. Gates initially **chose** to spend countless hours experimenting with and learning about computer software. He subsequently spent countless hours building what's proved to be an enduring business that transformed the world of personal computers and commercial software. The likelihood of Microsoft happening would have been greatly reduced had Gates chose to also divide his time with chasing Wimbledon (he liked tennis growing up). 
 
 The lesson to be extrapolated from this anecdote is that there will be shortcomings, inadequacies, flaws...imperfections that have to be tolerated. The key is to select which components of the solution space you allow to be imperfect with respect to your desired outcomes and constraints. 
 
 Do not let the unnecessary, unreasonable, and impossible standard of perfection get in the way of accomplishing your preferred reality. 
+
+
+
+## The Grasp of a Craft 
+
+**Entries**
+
+- [Stack vs. the Heap](#stack-vs-heap-142026)
+- [Interpreted vs. Compiled vs. JIT](#interpreted-vs-compiled-vs-jit)
+
+
+This essay entry will contain all of my explanations and deliberations on various ideas and concepts relating to the following fields:
+
+- The movement, processing, and applications of data
+    - Networking
+    - Distributed Systems
+    - Machine Learning
+- Software concepts 
+    - Cloud Computing
+    - Scalable Architecture (databases, caches, proxies, containerization, etc.)
+    - Maintainable Architecture (monitoring, operability, microservices, etc.)
+    - Backend logic (middleware, authentication, authorization, etc.)
+
+
+In the words of Paul Graham, best known for his [essays](https://paulgraham.com) & Y Combinator, 
+
+    "Talking or writing about the things you're interested in is a good way to generate new ideas. When you try to put ideas into words, a missing idea creates a sort of vacuum that draws it out of you. Indeed, there's a kind of thinking that can only be done by writing." - How To Do Great Work
+
+Writing, as a human invention, is in contention for one of the best ever. It's ability to preserve human thought and information over distance and time have been one of the greatest  accelerators of human progress. Think of where religion would be without scripture. Commerce without contracts. Try human knowledge without books. 
+
+
+Writing has immense value at the individual level as well. Graham encapsulates this fact well in the above quote. By attempting to define concepts and their applications, I will be forced to rectify those subtle gaps in my knowledge. The specificity in these explanations will vary depending on my natural interest to the subject and proximity in relevance to the field of MLOps. 
+
+Most to all entries should follow this formula:
+
+$$
+\text{Motivations} \rightarrow \text{Current Understanding} \rightarrow \text{Explanation} \rightarrow \text{Deliberations}
+$$
+
+Thinking about my current understanding prior to research will highlight gaps. This will ideally make research more targeted and impactful. 
+
+
+### Stack vs. Heap 1/4/2026
+
+The system which manages the allocating and deallocating of computer memory seems like a pretty important concept to understand as someone aspiring to program computers. The biggest adjustment from Python (1st language) to Rust & Golang has been understanding how information is stored and manipulated for compiled languages. Up to this point, I've become familiar with the higher level data structures & algorithms (maps, linked lists, and trees). This new knowledge will hopefully continue to reinforce my current mental model of programming. 
+
+**Current Understanding**
+
+I understand the stack as the structure which manages defined aspects of a program. Initialized primitives, functions, and their respective scopes are pushed and popped from the stack element. I'm not certain whether values or address are stored on the stack. The stack operates on the LIFO (last in first out) principle to handle the sequential nature of programming. 
+
+The heap manages the parts of a program which can not be defined with certainty at the time of compilation. I imagine that custom abstractions and external input are handled by this concept. I imagine that there are two core components to a heap. The component which allocates and deallocates memory and the other which tracks the addresses of the underlying data. I also know there to be a tree data structure somewhere in the heaps implementation.  
+
+
+
+**Post Research**
+
+Sources:
+
+- https://courses.grainger.illinois.edu/cs225/sp2022/resources/stack-heap/
+
+- Deepseek v3.2
+
+The memory layout of a C++ program is probably the most useful convention to study, so the resource explored that one. A program is given an address or memory space during execution. The range of addresses vary depending on the machine. Within this memory space, defined information is stored in the "low" addresses: the text instruction to run the program, the initialized (global) data, and uninitialized data. Much of the rest of the memory space is left to the stack and heap structures for allocating and deallocating memory. However stack and heap grow towards each other. This makes intuitive sense when you imagine the memory space as a finite array or memory addresses. It would be extremely inefficient to have to shift the stack *or* the heap if one grew too large. On this note, if either the stack or heap hit their respective limit, an overflow error is raised. 
+
+Variables placed on stack are called stack variables. At least for Go (the language I'm learning), any variable declared in a function (even main()) is considered to be "handled" by the stack. As it relates to programming, understanding scope, references, and argument passing conventions are greatly helped by understanding the stack. During the sequential execution, a program jumps in/out of many scopes. Keeping track of the addresses you need during programming is important. 
+
+Unlike allocation of stack variables, which occurs automatically, heap memory needs to be explicitly allocated and deallocated. This process is done by the programmer, a garbage collector, or some other contract (Rust's borrow checker). Interestingly, the addresses of allocated data are still pushed onto the stack. This make intuitive sense. Because the stack needs to know the size of all its data (so returned values can go to the write location), a pointer has a predictable size depending on the machine architecture. 
+
+This is as much as I'll dive into the stack & heap for now. The stack & heap lie at the basis of programmable computers. Without them, writing predictable programs would be much harder. 
+
+### Interpreted vs. Compiled vs. JIT 
 
