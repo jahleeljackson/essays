@@ -16,6 +16,8 @@ The word "essay" comes from the French essai, meaning "trial" or "attempt".
 
     5.1 [Stack vs. Heap](#stack-vs-heap-142026)
 
+    5.2 [Containerization](#containerization-152026)
+
 
 ## Goals vs. Preferred Reality
 
@@ -459,6 +461,7 @@ Do not let the unnecessary, unreasonable, and impossible standard of perfection 
 **Entries**
 
 - [Stack vs. the Heap](#stack-vs-heap-142026)
+- [Containerization](#containerization-152026)
 
 
 This essay entry will contain all of my explanations and deliberations on various ideas and concepts relating to the following fields:
