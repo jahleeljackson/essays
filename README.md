@@ -18,6 +18,8 @@ The word "essay" comes from the French essai, meaning "trial" or "attempt".
 
     5.2 [Containerization](#containerization-152026)
 
+    5.3 [Processes vs. Threads](#processes-vs-threads-172026)
+
 
 ## Goals vs. Preferred Reality
 
@@ -462,6 +464,7 @@ Do not let the unnecessary, unreasonable, and impossible standard of perfection 
 
 - [Stack vs. the Heap](#stack-vs-heap-142026)
 - [Containerization](#containerization-152026)
+- [Processes vs. Threads](#processes-vs-threads-172026)
 
 
 This essay entry will contain all of my explanations and deliberations on various ideas and concepts relating to the following fields:
@@ -563,9 +566,37 @@ This research dive really helped to flesh out my understanding of containers. At
 
 I did realize however that there is a gap in my understanding of process and threads. Containers run isolated processes that share an OS kernel. Do these processes run in parallel or concurrently? Is that dependent on the CPU -> container ratio? Do threads run within a process concurrently? Does parallelization only happen at the process level? Do multiple threads exist within a process or vice versa? These will all be answered in the next entry.
 
+
+### Processes vs. Threads 1/7/2026
+
+As someone aspiring to build reliable and performant software systems, it is crucial to understand processes vs. threads. Much of my programming to this point has been single threaded. However, I understand that in data-intensive application this is rarely acceptable. 
+
+Multi-threaded or even multi-process programs can be extremely difficult to write in a reliable manner. This is a barrier to entry for really good software engineers. A barrier I will overcome. 
+
+**Assumptions**
+
+My current understanding is that threads are a lighter version of processes. Whereas multiple processes can run concurrently on a single CPU, threads run concurrently on a single process. However I do not understand the relationship between an executables (or scripts for interpreted) and a process. For instance, do executables and process have 1:1 relationship? Are threads simply another function call running concurrently *within* the same process? I hope to answer these questions and many more during research.
+
+**Post Research**
+
+Sources:
+
+- https://www.geeksforgeeks.org/operating-systems/difference-between-process-and-thread/
+- https://www.baeldung.com/cs/process-vs-thread
+
+A process is a program under execution. A CPU often handles hundreds or thousands of processes. An OS data structure called a process control block (PCB) manages the context relevant to these processes. A process has its own executable machine code, global data (initialized and uninitialized), and heap. The stack(s) within a process depend on the threads in a program. All these components exist within the virtual memory space allocated by the OS. A CPU can only handle one process at a time. Context switching between process, can be much slower when compared to the context switching of threads. 
+
+Threads have a many to one relationship with processes. A thread can exist within one of three states: running, ready, and blocked. Each thread owns its a stack. Apart from their individual stacks, threads share the global data and heap of a process (which can cause conflicts and unexpected behavior). Threads&ndash;just like processes&ndash;*can* run in true parallel if multiples cores are available. Threads are much faster to create and terminate then processes. Context switching for threads are also orders of magnitude faster than processes. 
+
+Threads should be used for shared-memory tasks and communication. Processes should be used for memory isolation and security. 
+
+**Deliberations**
+
+This research cleared up a lot. I now feel much more confident to talk about process and threads. Possibly more important, I now feel that I can begin experimenting with multi-threaded and multi-processed programming. The language I'm currently learning, Golang, is known to make this process fairly intuitive for the developer. 
+
+
 **Upcoming entries**
 
 
-- Process vs. Threads
 - Relational Databases 
 - Interpreted vs. Compiled vs. JIT 
