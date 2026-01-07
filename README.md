@@ -1,3 +1,7 @@
+
+The word "essay" comes from the French essai, meaning "trial" or "attempt".
+
+
 # Table of Contents
 
 1. [Goals vs. Preferred Reality](#goals-vs-preferred-reality)
@@ -11,7 +15,6 @@
 5. [Grasp Of A Craft](#the-grasp-of-a-craft)
 
     5.1 [Stack vs. Heap](#stack-vs-heap-142026)
-    5.2[Interpreted vs. Compiled vs. JIT](#interpreted-vs-compiled-vs-jit)
 
 
 ## Goals vs. Preferred Reality
@@ -456,7 +459,6 @@ Do not let the unnecessary, unreasonable, and impossible standard of perfection 
 **Entries**
 
 - [Stack vs. the Heap](#stack-vs-heap-142026)
-- [Interpreted vs. Compiled vs. JIT](#interpreted-vs-compiled-vs-jit)
 
 
 This essay entry will contain all of my explanations and deliberations on various ideas and concepts relating to the following fields:
@@ -483,11 +485,13 @@ Writing has immense value at the individual level as well. Graham encapsulates t
 
 Most to all entries should follow this formula:
 
-$$
-\text{Motivations} \rightarrow \text{Current Understanding} \rightarrow \text{Explanation} \rightarrow \text{Deliberations}
-$$
+**Motivations -> Current Understanding -> [Research] -> Explanation -> Deliberations**
 
 Thinking about my current understanding prior to research will highlight gaps. This will ideally make research more targeted and impactful. 
+
+"Acknowledging our ignorance can give us the strength to conquer and extend our limit." - Jan Jansen
+
+
 
 
 ### Stack vs. Heap 1/4/2026
@@ -518,5 +522,47 @@ Unlike allocation of stack variables, which occurs automatically, heap memory ne
 
 This is as much as I'll dive into the stack & heap for now. The stack & heap lie at the basis of programmable computers. Without them, writing predictable programs would be much harder. 
 
-### Interpreted vs. Compiled vs. JIT 
+**Deliberations**
 
+It's interesting to think of how complex multi-process programs are. What is the difference between a process and a thread? How does a multi-threaded or multi-process program execute on a single CPU? On multiple? How does such a system work in a production application with countless clients executing the same programs? 
+
+### Containerization 1/5/2026
+
+Containerization appears to be an extremely important technology in the discipline of scalable web architecture. It underpins other vital technologies such as Docker & Kubernetes which are referenced frequently in DevOps.  
+
+**Assumptions**
+
+It seems as though development is made much smoother when using containers. Programs (aka applications) can behave differently depending on a couple factors. Operating system, machine architecture, language & dependency versions, and resource usage can effect what an application does and how it does it . Applications are accessed in many different environments in development (OS, language & dependency versions, etc.) and by many different interfaces in production (laptops, video game consoles, phones, etc.). I understand containerization to be one of the technologies which greatly simplify the difficulties introduced by this. 
+
+As I understand it, containers carry a manifest file (e.g. Dockerfile) holding data about the particular environment of the application. In my experience, this data can describe the platform or operating system, program directory, dependency installation, necessary resources (e.g. ports), and instruction to run. A container software then reads this file and builds an "image". 
+
+I do not understand anything about the underlying technologies which allow for something like this to occur. I do not understand how images are shared during development, or managed during production. I do not know the relationship (1:1 or 1:many) between containers and clients. 
+
+**Post Research**
+
+Sources:
+
+- https://en.wikipedia.org/wiki/Containerization_(computing)
+- https://www.ibm.com/think/topics/containerization
+- https://www.netscaler.com/articles/what-is-containerization
+- https://www.geeksforgeeks.org/devops/what-is-containerisation/
+- Deepseek v3.2
+
+In simplest terms, a container is a package of software containing OS information, configuration files, libraries, and dependencies required for it to be executed. A container runs on an isolated process. However a **huge** advantage to containerization over virtual machines (its precursor) is that it *shares* the OS kernel with other containers. Similar to executing two processes in two different terminals, a container also receives its own virtual filesystem, own network namespace, and process isolation. Virtual machines require their own OS kernel, making them very expensive to scale. 
+
+Containers increase application fault tolerance for microservice applications. If one container were to fail, no effect would be had on the other container(s) execution. 
+
+A container **engine** builds containers out of images. An image is the recipe a container engine follows to build out a running container. The container engine essentially acts as the bridge between the raw OS kernel and the containers. 
+
+**Deliberations**
+
+This research dive really helped to flesh out my understanding of containers. At least for now, this conceptual understanding of containers and how they compare to virtual machines is useful. I'm not currently curious enough in the topic to dive deeper into the technical details of how container engines actually conduct business. 
+
+I did realize however that there is a gap in my understanding of process and threads. Containers run isolated processes that share an OS kernel. Do these processes run in parallel or concurrently? Is that dependent on the CPU -> container ratio? Do threads run within a process concurrently? Does parallelization only happen at the process level? Do multiple threads exist within a process or vice versa? These will all be answered in the next entry.
+
+**Upcoming entries**
+
+
+- Process vs. Threads
+- Relational Databases 
+- Interpreted vs. Compiled vs. JIT 
